@@ -11,8 +11,8 @@
 
 ## 連絡先
 
-- Email: masahiro.morita0354@gmail.com
-- GitHub: https://github.com/masahiro-morita-1019
+- Email: <masahiro.morita0354@gmail.com>
+- GitHub: <https://github.com/masahiro-morita-1019>
 
 ## スキル
 
@@ -28,51 +28,58 @@
 ### フレームワーク・ライブラリ
 
 #### フロントエンド
+
 - React.js
 - Next.js
 
 #### バックエンド
+
 - Node.js
 - Nest.js
 - Spring Boot
 
 ### データベース
+
 - MySQL
 - PostgreSQL
 - DynamoDB
 
 ### インフラ・DevOps
-- AWS (EC2, S3, RDS, Lambda, OpenSearch,...)
+
+- AWS (CloudFront, S3, Cognito, API Gateway, Lambda, RDS, OpenSearch, ...)
 - Docker
 - CI/CD (GitHub Actions, CodePipeline)
 - [SST](https://sst.dev/)
 
 ### その他
+
 - Git/GitHub
-- REST API設計
+- REST API
 - GraphQL
 
 ## 職務経歴
 
-### [会社名] ([在籍期間])
+### 株式会社コアコンセプト・テクノロジー (2020年4月〜)
 
-**職種**: [職種名]
+**職種**: [PL / アーキテクト]
 
 **担当業務**:
+
 - [担当した業務1]
 - [担当した業務2]
 - [担当した業務3]
 
 **使用技術**:
+
 - [使用した技術スタック]
 
 **成果・実績**:
-- [具体的な成果や実績]
 
+- [具体的な成果や実績]
 
 ## プロジェクト経験
 
-### [プロジェクト名]
+### [プロジェクト名1]
 
 **概要**: [プロジェクトの概要]
 
@@ -84,9 +91,8 @@
 
 **成果**: [プロジェクトの成果]
 
-**URL**: [GitHub Repository/デモサイト]
 
-### [プロジェクト名]
+### [プロジェクト名2]
 
 **概要**: [プロジェクトの概要]
 
@@ -98,37 +104,9 @@
 
 **成果**: [プロジェクトの成果]
 
-**URL**: [GitHub Repository/デモサイト]
 
-## 学歴
 
-### [大学名] [学部名] [学科名]
 
-**期間**: [入学年月] - [卒業年月]
-
-**専攻**: [専攻分野]
-
-**研究テーマ**: [卒業研究のテーマ]
-
-## 資格・認定
-
-- [取得した資格1] ([取得年月])
-- [取得した資格2] ([取得年月])
-- [取得した資格3] ([取得年月])
-
-## 意欲・興味
-
-### 今後やってみたいこと
-
-- [興味のある技術分野1]
-- [興味のある技術分野2]
-- [興味のある技術分野3]
-
-### 学習していること
-
-- [現在学習中の技術1]
-- [現在学習中の技術2]
-- [現在学習中の技術3]
 
 
 ---

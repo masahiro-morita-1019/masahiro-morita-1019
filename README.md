@@ -7,6 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
+📄 **[職務経歴書](https://masahiro-morita-1019.github.io/masahiro-morita-1019/)**
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモード：theme=light, ダークモード：theme=dark -->
