@@ -1,0 +1,17 @@
+theme: jekyll-theme-minimal
+title: 職務経歴書
+description: GitHub Pagesで公開する職務経歴書
+show_downloads: false
+google_analytics: # Google Analytics ID (optional)
+
+# Additional settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Social media settings (optional)
+github:
+  is_project_page: false
+  is_user_page: true
