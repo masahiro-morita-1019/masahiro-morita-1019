@@ -38,6 +38,18 @@
 - GraphQL
 - REST
 
+### ORマッパー
+- Prisma
+- MyBatis
+
+### データベース
+
+- PostgreSQL
+- MySQL
+- AWS Aurora
+- AWS DynamoDB
+- AWS OpenSearch
+
 ### インフラ
 
 - AWS
@@ -54,13 +66,6 @@
 - AWS CodePipeline
 - AWS CodeBuild
 
-### データベース
-
-- PostgreSQL
-- MySQL
-- AWS Aurora
-- AWS DynamoDB
-- AWS OpenSearch
 
 ### ロギング
 
